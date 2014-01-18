@@ -1,6 +1,6 @@
 # Basketball Simulation #
 
-A simple simulation of basketball shot trajectories, exploring the optimal angle for release for an NBA shooter.
+A simple simulation of basketball shot trajectories, exploring the optimal angle of release for an NBA shooter.
 
 The included scripts are:
 
@@ -9,6 +9,8 @@ The included scripts are:
 Create a simple graphic to illustrate the effect on shot trajectory of angle and initial velocity choice.
 
 See basketball_fixed.pdf
+
+1[](basketball_fixed.png)
 
 ## basketball_angles_optimize.py ##
 
@@ -38,4 +40,5 @@ Physical factors not accounted for include:
 * Air resistance
 * Backboard reflection
 * Defender blocking
+
 

@@ -38,5 +38,6 @@ plt.plot(px,polyval(f,px),lw=3,c='r')
 plt.xlabel('Launch angle (deg)')
 plt.ylabel('Success rate')
 
-plt.savefig('basketball_optimal.pdf',dpi=300)
+plt.savefig('basketball_optimal.pdf')
+plt.savefig('basketball_optimal.png',dpi=150)
 

@@ -76,3 +76,4 @@ for k in range(len(angles)):
 
 
 plt.savefig('basketball_fixed.pdf',dpi=300)
+plt.savefig('basketball_fixed.png',dpi=150)
